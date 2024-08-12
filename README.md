@@ -7,7 +7,7 @@ I'm **Devica** (not device). It is nice to e-meet you!😊
 
 Currently, I am working as a Data Scientist after graduating with a Master's Degree in Computer Science (Machine Learning Track) from Columbia University. I am passionate about Artificial Intelligence, Machine Learning, and Data Science. My goal is to leverage technology as an enabler to solve problems prevailing in the society.  
 
-I enjoy organizing, participating, and volunteering for different events. When not immersed in data and tech, you'll find me dancing, singing, swimming or engrossed in a good book.💃🏊‍♀️
+I enjoy organizing, participating, and volunteering at different events. When not immersed in data and tech, you'll find me dancing, singing, swimming or engrossed in a good book.💃🏊‍♀️
 
 Let's connect and explore opportunities to collaborate and share insights!✨
 
