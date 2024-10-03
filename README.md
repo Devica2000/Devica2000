@@ -13,8 +13,8 @@ Let's connect and explore opportunities to collaborate and share insights!✨
 
 Here is what I am upto:
 
-- 🔭 I’m currently working on building end-to-end Machine Learning projects and analyzing A/B test results
-- 🌱 I’m currently learning how to productionize ML models
+- 🔭 I currently build end-to-end Machine Learning systems at scale (Especially for Product Ranking)
+- 🌱 I’m currently learning how to productionize ML models (Feel free to share any best practices!)
 - 👯 I’m looking to collaborate on any interesting projects!
 - 🤔 I’m looking for help with building my portfolio.
 - 📫 How to reach me: LinkedIn
